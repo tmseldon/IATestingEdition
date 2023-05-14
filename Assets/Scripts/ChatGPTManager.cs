@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Game.AI
 {
+    /// <summary>
+    /// [WIP] ChatGPT Manager 
+    /// </summary>
     public class ChatGPTManager : MonoBehaviour
     {
         /// <summary>
