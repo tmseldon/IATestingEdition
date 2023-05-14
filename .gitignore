@@ -71,6 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Resources
-# Packed Addressables
+# Resources not needed
 /[Aa]ssets/[Rr]esources/
+/[Aa]ssets/TutorialInfo/
+/[Aa]ssets/Settings/
